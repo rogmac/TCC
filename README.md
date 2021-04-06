@@ -7,6 +7,8 @@ MODELO PREDITIVO PARA DETERMINAÇÃO DO LOCAL DE DESEMBARQUE DAS MERCADORIAS IMP
 #### Instruções:
 O arquivo **TCC_Rogerio.ipynb** contém o notebook completo do TCC, que pode ser executado no Jupyter Notebook do Anaconda ou no ambiente colaborativo do Google (Google Colab). O notebook carrega automaticamente os datasets disponibilizados neste repositório do GitHub. A execução do script no ambiente padrão do Google Colab leva cerca de 20 minutos.
 
+
+#### Comentários sobre o dataset completo
 Conforme explicado no item 2.1 do TCC, o dataset de importações (disponível no site do Ministério da Economia) possui mais de 2 GB. Por isso o notebook está configurado para fazer uso de uma versão reduzida (com 250 mil amostras) deste dataset para a fase de análises exploratórias. Não há necessidade de modificar nenhuma variável global para utilizar essa configuração padrão.
 
 
