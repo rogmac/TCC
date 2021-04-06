@@ -4,8 +4,10 @@ APRENDIZADO DE MÁQUINA APLICADO AO COMÉRCIO EXTERIOR
 
 MODELO PREDITIVO PARA DETERMINAÇÃO DO LOCAL DE DESEMBARQUE DAS MERCADORIAS IMPORTADAS 
 
+
 #### Instruções:
 O arquivo **TCC_Rogerio.ipynb** contém o notebook completo do TCC, que pode ser executado no Jupyter Notebook do Anaconda ou no ambiente colaborativo do Google (Google Colab). O notebook carrega automaticamente os datasets disponibilizados neste repositório do GitHub. A execução do script no ambiente padrão do Google Colab leva cerca de 20 minutos.
+
 
 
 #### Comentários sobre o dataset completo
@@ -17,6 +19,7 @@ Entretanto, caso haja interesse de utilizar o dataset completo (2 GB) para execu
 Apenas nesse caso (de haver interesse de usar o dataset de 2 GB), o arquivo deverá ser baixado localmente, e a variável global UTILIZAR_DATASET_REDUZIDO_PARA_ANALISES (primeira célula do notebook) deverá ser alterada para False, para que o script busque o dataset completo, que deverá estar no caminho d:\\datasets\\IMP_COMPLETA.csv, no drive local.
 
 Os gráficos e tabelas apresentados no TCC, relativos às análises exploratórias, foram obtidos a partir do dataset completo (de 2 GB). Por essa razão, os gráficos e tabelas gerados com a versão reduzida podem ser ligeiramente diferentes daqueles apresentados no TCC.
+
 
 #### Resultados (output do script)
 Uma cópia do notebook, com todos os gráficos e tabelas gerados com o dataset completo, está disponível na pasta **/resultados** deste repositório.
